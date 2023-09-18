@@ -1,11 +1,11 @@
 /* CSS variables */
 :root {
-    --body-background: #e6e6e6;
-    --primary-purple: #7300e6;
-	--light-blue: #99ffff;
-	--yellow: #ffff00;
+    --body-background: #FAFAFA;
+    --primary-purple: #00BFFF;
+	--light-blue: #FFBF00;
+	--yellow: #FFBF00;
     --yellow-hover:#e6e600;
-    --light-gray: #e6e6e6;
+    --light-gray: #C0C0C0;
 	--dark-gray: #4d4d4d;
     --black: rgb(11, 11, 11);
     --font-size: 16px;
